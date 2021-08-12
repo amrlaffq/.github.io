@@ -31,6 +31,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 images/figure.png
 
+<img src="https://amrlaffq.github.io/images/figure.png" alt="Figure">
 figure : 'https://amrlaffq.github.io/images/figure.png'
 
 goals scored : 'https://amrlaffq.github.io/images/Goals scored.png'
