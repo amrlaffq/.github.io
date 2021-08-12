@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Link to another page](./another-page.html).
 
 <p align="center">
-     Hi !! I'm Amirul Affiq U+1F604
+     ## Hi !! I'm Amirul Affiq :beaming face with smiling eyes
 </p>
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
