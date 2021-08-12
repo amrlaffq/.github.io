@@ -4,25 +4,30 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[LinkedIn Profile](https://www.linkedin.com/in/amirul-affiq/).
-
 🇲🇾 ❤
 ✈ 🇹🇭 🇸🇦
 
   
 ## Hi! I'm Amirul Affiq 😁
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[LinkedIn Profile](https://www.linkedin.com/in/amirul-affiq/).
 
-## Portfolio
+## Data Science
 
-> This is a blockquote following a header.
+> Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Project 1
+### Projects
 
 **Python (Pandas)**
+
+**Football Best League in 2020**
+
+1. Creating a new dataset.
+2. Relationship between Possesion Games and Win Rate in English Premier League (EPL).
+3. Goals scored by top team in EPL.
+4. Comparison between top 5 Leagues.
 
 ```js
 // Javascript code with syntax highlighting.
