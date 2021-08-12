@@ -29,14 +29,20 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 3. Goals scored by top team in EPL.
 4. Comparison between top 5 Leagues.
 
-images/figure.png
-
+<p align="center">
+    Possesion Games and Win Rate in English Premier League (EPL)
+</p>
 <img src="https://amrlaffq.github.io/images/figure.png" alt="Figure">
-figure : 'https://amrlaffq.github.io/images/figure.png'
 
-goals scored : 'https://amrlaffq.github.io/images/Goals scored.png'
+<p align="center">
+    Goals scored by top team in EPL
+</p>
+<img src="https://amrlaffq.github.io/images/Goals scored.png" alt="Goals scored">
 
-ligue : 'https://amrlaffq.github.io/images/ligue.png'
+<p align="center">
+    Comparison between top 5 Leagues
+</p>
+<img src="https://amrlaffq.github.io/images/ligue.png" alt="ligue">
 
 ```js
 // Javascript code with syntax highlighting.
