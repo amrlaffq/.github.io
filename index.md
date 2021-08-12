@@ -54,29 +54,23 @@ layout: default
 **Private Investigator (Murder case)**
 
 ```js
-// %%sql select *
+%%sql select *
 from get_fit_now_member as nm
 join get_fit_now_check_in as ci
 on nm.id == ci.membership_id
 where (check_in_date == 20180109) AND (membership_id like '48Z%')
-}
 ```
+<img src="https://amrlaffq.github.io/images/image1.png" alt="image1">
 
 ```js
-// %%sql select *
+%%sql select *
 from person as p
 join drivers_license as dl
 on p.license_id == dl.id
 where plate_number like '%H42W%'
-}
 ```
+<img src="https://amrlaffq.github.io/images/image2.png" alt="image2">
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
