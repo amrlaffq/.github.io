@@ -22,7 +22,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 **Python (Pandas)**
 
-**Football Best League in 2020**
+**a) Football Best League in 2020**
 
 1. Creating a new dataset.
 2. Relationship between Possesion Games and Win Rate in English Premier League (EPL).
@@ -44,6 +44,12 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 </p>
 <img src="https://amrlaffq.github.io/images/ligue.png" alt="ligue">
 
+**b) Best Movies based on IMDb**
+
+1. Top genre
+2. Top country produced movies
+
+<img src="https://amrlaffq.github.io/images/best movie.png" alt="Best movies">
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
