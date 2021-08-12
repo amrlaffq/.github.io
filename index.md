@@ -29,6 +29,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 3. Goals scored by top team in EPL.
 4. Comparison between top 5 Leagues.
 
+'https://amrlaffq.github.io/images/figure.png'
+'https://amrlaffq.github.io/images/Goals scored.png'
+'https://amrlaffq.github.io/images/ligue.png'
+
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
