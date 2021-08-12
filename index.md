@@ -6,11 +6,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-<p style="font-size:30px">
-🇲🇾 ✈ 🇹🇭 🇸🇦
-</p>
+🇲🇾 ❤
+✈ 🇹🇭 🇸🇦
+
   
-## Hi !!! I'm Amirul Affiq 😁
+## Hi! I'm Amirul Affiq 😁
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
