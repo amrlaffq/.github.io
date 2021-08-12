@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[LinkedIn Profile](https://www.linkedin.com/in/amirul-affiq/).
 
 🇲🇾 ❤
 ✈ 🇹🇭 🇸🇦
