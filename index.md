@@ -31,11 +31,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 images/figure.png
 
-figure = 'https://amrlaffq.github.io/images/figure.png'
+figure : 'https://amrlaffq.github.io/images/figure.png'
 
-goals scored = 'https://amrlaffq.github.io/images/Goals scored.png'
+goals scored : 'https://amrlaffq.github.io/images/Goals scored.png'
 
-ligue = 'https://amrlaffq.github.io/images/ligue.png'
+ligue : 'https://amrlaffq.github.io/images/ligue.png'
 
 ```js
 // Javascript code with syntax highlighting.
