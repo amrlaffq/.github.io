@@ -10,7 +10,7 @@ layout: default
 
 ## Data Science
 
-> "Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics >to extract meaningful insights from data"
+> "Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data"
 >
 > "When something is important enough, you do it even if the odds are not in your favor"-Elon Musk
 
@@ -50,13 +50,13 @@ print('**')
 
 >Logistic Regression best model confusion matrix on test data  
 >[[307 194]
->[190 214]]
->**
->Logistic Regression best model Precision  on test data = 0.52
->Logistic Regression best model Recall on test data = 0.53
->Logistic Regression best model F1 on test data  = 0.53
->Logistic Regression best model Accuracy  on test data = 0.58
->**
+> [190 214]]
+> **
+> Logistic Regression best model Precision  on test data = 0.52
+> Logistic Regression best model Recall on test data = 0.53
+> Logistic Regression best model F1 on test data  = 0.53
+> Logistic Regression best model Accuracy  on test data = 0.58
+> **
 
 **Python (Pandas)**
 
