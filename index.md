@@ -18,6 +18,26 @@ layout: default
 
 ### Projects
 
+**Python (Machine Learning)**
+
+**Determine the Potential Customers**
+
+1. Clean the dataset
+2. Exploratory data analysis
+3. Feature engineering
+4. Data preprocessing
+5. Machine learning
+
+<p align="center">
+    Customer's Age
+</p>
+<img src="https://amrlaffq.github.io/images/Age.png" alt="Figure">
+
+<p align="center">
+    Purchases made by every genders for past 3 years
+</p>
+<img src="https://amrlaffq.github.io/images/output.png" alt="Figure">
+
 **Python (Pandas)**
 
 **a) Football Best League in 2020**
