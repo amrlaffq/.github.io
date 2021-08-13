@@ -10,7 +10,7 @@ layout: default
 
 ## Data Science
 
-> "Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data"
+> "Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics >to extract meaningful insights from data"
 >
 > "When something is important enough, you do it even if the odds are not in your favor"-Elon Musk
 
@@ -35,6 +35,28 @@ layout: default
     Purchases made by every genders for past 3 years
 </p>
 <img src="https://amrlaffq.github.io/images/output.png" alt="Figure">
+
+```js
+logr_model.fit(X_train,y_train)
+logr_pred = logr_model.predict(X_test)
+print('Logistic Regression best model confusion matrix on test data  \n',confusion_matrix(y_test, logr_pred)  )
+print('**')
+print('Logistic Regression best model Precision  on test data = {:.2f}'.format(precision_score(y_test, logr_pred)))
+print('Logistic Regression best model Recall on test data = {:.2f}'.format(recall_score(y_test, logr_pred)))
+print('Logistic Regression best model F1 on test data  = {:.2f}'.format(f1_score(y_test, logr_pred)))
+print('Logistic Regression best model Accuracy  on test data = {:.2f}'.format(accuracy_score(y_test, logr_pred)))
+print('**')
+```
+
+>Logistic Regression best model confusion matrix on test data  
+>[[307 194]
+>[190 214]]
+>**
+>Logistic Regression best model Precision  on test data = 0.52
+>Logistic Regression best model Recall on test data = 0.53
+>Logistic Regression best model F1 on test data  = 0.53
+>Logistic Regression best model Accuracy  on test data = 0.58
+>**
 
 **Python (Pandas)**
 
