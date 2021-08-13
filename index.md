@@ -2,8 +2,6 @@
 layout: default
 ---
 
-🇲🇾 ❤
-✈ 🇹🇭 🇸🇦
 
   
 ## Hi! I'm Amirul Affiq 😁
@@ -12,9 +10,9 @@ layout: default
 
 ## Data Science
 
-> Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.
+> "Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data"
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> "When something is important enough, you do it even if the odds are not in your favor"-Elon Musk
 
 ### Projects
 
