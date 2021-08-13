@@ -49,14 +49,14 @@ print('**')
 ```
 
 >Logistic Regression best model confusion matrix on test data  
->[[307 194]
-> [190 214]]
-> **
-> Logistic Regression best model Precision  on test data = 0.52
-> Logistic Regression best model Recall on test data = 0.53
-> Logistic Regression best model F1 on test data  = 0.53
-> Logistic Regression best model Accuracy  on test data = 0.58
-> **
+ [[307 194]
+ [190 214]]
+>**
+>Logistic Regression best model Precision  on test data = 0.52
+>Logistic Regression best model Recall on test data = 0.53
+>Logistic Regression best model F1 on test data  = 0.53
+>Logistic Regression best model Accuracy  on test data = 0.58
+>**
 
 **Python (Pandas)**
 
